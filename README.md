@@ -7,7 +7,7 @@
 
 ## Description
 
-This application will... 
+This application will will allow a user, Claire, to and and view information regarding her hair stylists and their clients. 
 
 ## Setup/Installation Requirements
 
