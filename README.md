@@ -1,4 +1,4 @@
-# _Hair Salon_ 
+# _Eau Claire's Salon_ 
 
 #### _One to Many Database Solo Project for Epicodus_ 
 #### _DATE 12.24.2020_
