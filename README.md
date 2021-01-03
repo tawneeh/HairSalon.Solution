@@ -7,7 +7,7 @@
 
 ## Description
 
-This application will will allow a user, Claire, to and and view information regarding her hair stylists and their clients. 
+This application will will allow a user, Claire, to and and view information regarding her hair Stylists and their Clients. 
 
 ## Setup/Installation Requirements
 
@@ -27,7 +27,7 @@ Setup Instructions
 
 ## Known Bugs
 
-This application has no known bugs. 
+This application does not display Clients that belong to a specific Stylist on that Stylist's details page yet.
 
 ## Support and contact details
 
