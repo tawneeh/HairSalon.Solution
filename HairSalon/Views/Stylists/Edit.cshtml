@@ -12,6 +12,8 @@
 {
   @Html.HiddenFor(model => model.StylistId)
 
+  @Html.LabelFor(model => model.Name)
+  @Html.EditorFor(model => model.Name)
   @Html.LabelFor(model => model.Specialty)
   @Html.EditorFor(model => model.Specialty)
 
