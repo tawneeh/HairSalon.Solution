@@ -23,7 +23,6 @@ Open by Downloading or Cloning
 Setup Instructions
 * DB Snippet:
 * CREATE DATABASE `tawnee_harris` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-<br>
 * Navigate to HairSalon.Solution/HairSalon and type `dotnet restore` into the terminal
 * Then, in the same project folder, type `dotnet build` into the terminal followed by `dotnet run`
 * Peruse this application at your leisure 
